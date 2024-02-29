@@ -18,7 +18,7 @@ function Home () {
        <Nav/>
         {/* <h1 className="bg-danger text-light">Welcome to Home Page</h1> */}
         <div className="" style={{backgroundColor: "greenyellow", height: "700px", borderRadius: "15px"}}>
-            <img src={img1} alt="" />
+            <img src={img1} alt="" width={250} height={250} />
         </div>
         </>
     )
